@@ -5,14 +5,14 @@ h1,h2{
 
 }
 .middle{
-    text-align: center;
+    text-align: left;
 }
 #dot
 {
     color:dark;
     
     font-family: 'Times New Roman', Times, serif;
-    list-style-position:inside ;
+    
     margin-right: 50px ;
 }
 body{

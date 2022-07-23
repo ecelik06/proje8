@@ -1,0 +1,33 @@
+h1,h2{
+    
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.middle{
+    text-align: center;
+}
+#dot
+{
+    color:dark;
+    
+    font-family: 'Times New Roman', Times, serif;
+    list-style-position:inside ;
+    margin-right: 50px ;
+}
+body{
+    background-color: bisque;
+}
+.img
+{
+   margin-left: 40%;
+   margin-right:100% ;
+  
+}
+img{
+    height: 250px;
+    width: 400px;
+}
+p{
+    text-align: left;
+}
